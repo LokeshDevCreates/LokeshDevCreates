@@ -80,7 +80,7 @@ A CNN-based image classification system for detecting plant diseases.
 
 ## 🧠 Problem Solving
 
-- Solved **130+ LeetCode problems**
+- Solved **200+ LeetCode problems**
 - Strong foundation in:
   - Arrays, Strings
   - Hashing
