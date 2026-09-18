@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lokesh P
 
-**Full-Stack Developer (MERN / Next.js)**  
-Building scalable web applications with clean architecture and real-world problem solving.
+**Full-Stack Developer | AI/ML Enthusiast**  
+Building scalable web applications and AI-powered solutions with clean architecture and real-world problem solving.
 
 📍 Chennai, India  
 📧 lokesh.p.dev@gmail.com  
@@ -11,70 +11,148 @@ Building scalable web applications with clean architecture and real-world proble
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer** with hands-on experience building end-to-end web applications using  
-**React, Next.js, Node.js, Express, and MongoDB**.
+I’m a **Full-Stack Developer** with hands-on experience building end-to-end web applications and AI-powered products using **React, Next.js, Node.js, Django, Python, and MongoDB**.
 
 I enjoy:
-- Turning ideas into production-ready applications
-- Writing clean, maintainable backend APIs
-- Solving real-world problems beyond textbook DSA
-- Integrating AI features into web products when it adds real value
+- Building production-ready web applications
+- Designing clean and scalable backend APIs
+- Solving real-world engineering problems
+- Integrating AI and automation into practical applications
+- Learning and experimenting with Agentic AI systems
 
-I’m currently focused on **placement & off-campus opportunities** where I can grow as a software engineer.
+Currently focused on **software engineering, AI, and full-stack development opportunities** where I can grow and contribute to real-world products.
+
+---
+
+## 💼 Experience
+
+### 🔹 Full-Stack Developer Intern — Amihive
+**May 2026 – June 2026**
+
+Worked on an **HRMS (Human Resource Management System)** for managing employees, roles, permissions, organizational data, attendance, and payroll workflows.
+
+**Responsibilities & Highlights:**
+- Developed full-stack features using **Next.js, Node.js, and Tailwind CSS**
+- Implemented **Role-Based Access Control (RBAC)** for Super Admin, Admin, and Employee roles
+- Developed employee and administrator management modules
+- Built APIs for **Departments, Designations, and Branches**
+- Worked on role-permission and access management
+- Contributed to **attendance and payroll** workflows
+- Designed backend APIs and database models
+
+**Tech:** Next.js, Node.js, JavaScript, Tailwind CSS, MongoDB, REST APIs
+
+---
+
+### 🔹 Full-Stack Developer Intern — Defsecone Consulting and Technologies Pvt Ltd
+**September 2025 – March 2026**
+
+Worked on a **cybersecurity assessment platform** for evaluating and managing security assessments.
+
+**Responsibilities & Highlights:**
+- Developed REST APIs using **Django REST Framework**
+- Built frontend features using **TypeScript**
+- Integrated frontend applications with backend APIs
+- Worked with **PostgreSQL** for data management
+- Containerized the application using **Docker**
+- Deployed and managed the application on an **Ubuntu VM**
+- Worked on improving API performance and application reliability
+
+**Tech:** Django REST Framework, TypeScript, PostgreSQL, Docker, Ubuntu
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Core Development**
-- **Languages:** JavaScript, Python, C
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, FastAPI
-- **Databases:** MongoDB, MySQL
-- **APIs & Auth:** REST APIs, JWT, Firebase Authentication
+### **Languages**
+- JavaScript
+- Python
+- C
 
-### **Tools & Platforms**
+### **Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- Vite
+
+### **Backend**
+- Node.js
+- Express.js
+- Django REST Framework
+- FastAPI
+
+### **Databases**
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### **APIs & Authentication**
+- REST APIs
+- JWT
+- Firebase Authentication
+
+### **DevOps & Tools**
 - Git & GitHub
 - Docker
+- Kubernetes
 - Postman
-- Vercel, Netlify, Render
+- Vercel
+- Render
 
-### **AI / ML (Applied)**
-- TensorFlow, OpenCV, Scikit-learn  
-- Experience integrating ML models into web applications
+### **AI / ML**
+- Hugging Face
+- TensorFlow
+- OpenCV
+- Scikit-learn
+- AI APIs
+- Agentic AI
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Event Management System
-A full-stack platform for creating, approving, and booking events with role-based access control.
+### 🔹 Enterprise Agentic AI Platform
+
+An AI-powered platform designed to automate enterprise workflows using **AI agents, intelligent task execution, and workflow orchestration**.
 
 **Highlights:**
-- Admin, Organizer, Attendee roles
-- Secure authentication & authorization
-- Full CRUD workflows
+- Agent-based architecture for task automation
+- AI-powered workflow execution
+- Multi-step task handling
+- Integration of LLM-based capabilities
+- Modular architecture for scalable AI workflows
 
-**Tech:** MERN Stack, Tailwind CSS
+**Tech:** Next.js, Node.js, MongoDB, AI APIs, Agentic AI
+
+---
+
+### 🔹 Tone Detection Chrome Extension — "Say It Better"
+
+An AI-powered Chrome extension that analyzes the tone of text and helps users communicate more effectively.
+
+**Highlights:**
+- Detects the emotional tone of written text
+- Uses a transformer-based NLP model
+- Provides improved communication suggestions
+- FastAPI backend for model inference
+- Dockerized application
+
+**Tech:** JavaScript, Python, FastAPI, Hugging Face, RoBERTa, Docker
 
 ---
 
 ### 🔹 AI Interview Practice Platform
-An AI-powered interview simulator with voice input and AI-generated responses.
+
+An AI-powered interview simulator designed to help users practice interviews and receive AI-generated feedback.
 
 **Highlights:**
-- Speech-to-text & text-to-speech
-- Session-based authentication
-- AI-driven feedback
+- AI-generated interview questions
+- Voice input and speech-to-text
+- Text-to-speech interaction
+- Session-based interview flow
+- AI-powered feedback and evaluation
 
-**Tech:** Next.js, Firebase, AI APIs
-
----
-
-### 🔹 Leaf Disease Prediction System
-A CNN-based image classification system for detecting plant diseases.
-
-**Tech:** Python, TensorFlow, OpenCV, Flask
+**Tech:** Next.js, Firebase, Groq API, AI APIs
 
 ---
 
@@ -82,27 +160,29 @@ A CNN-based image classification system for detecting plant diseases.
 
 - Solved **200+ LeetCode problems**
 - Strong foundation in:
-  - Arrays, Strings
+  - Arrays & Strings
   - Hashing
-  - Two Pointers & Sliding Window
-  - Stacks & Recursion
-- Comfortable translating algorithmic logic to real coding environments
+  - Two Pointers
+  - Sliding Window
+  - Stacks
+  - Recursion
+  - Basic Dynamic Programming
+- Comfortable applying algorithmic concepts to real-world development problems
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshDevCreates&theme=default&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshDevCreates&layout=compact)
-
----
-
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 I’m open to:
-- Internships & entry-level full-stack roles
+
+- Full-time software engineering opportunities
+- Internships & entry-level roles
+- AI/ML and full-stack development opportunities
 - Collaborating on meaningful projects
 - Learning from real-world engineering challenges
 
-📩 Feel free to reach out via **email or LinkedIn**.
+📩 Feel free to reach out via **email, LinkedIn, or GitHub**.
 
+---
+
+⭐ Thanks for visiting my profile!
