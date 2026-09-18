@@ -44,7 +44,7 @@ Worked on an **HRMS (Human Resource Management System)** for managing employees,
 
 ---
 
-### 🔹 Full-Stack Developer Intern — Defsecone Consulting and Technologies Pvt Ltd
+### 🔹 Developer— Defsecone Consulting and Technologies Pvt Ltd
 **September 2025 – March 2026**
 
 Worked on a **cybersecurity assessment platform** for evaluating and managing security assessments.
